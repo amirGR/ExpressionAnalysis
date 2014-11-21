@@ -1,4 +1,4 @@
 Gene-Interactions
 =================
 
-genes expressions dependence modeling 
+genes expression dependence modeling 
